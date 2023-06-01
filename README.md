@@ -1,4 +1,7 @@
 
+### Hi there 👋
+
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applego&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=applego&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
@@ -7,8 +10,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=applego&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-
-### Hi there 👋
 
 <!--
 **applego/applego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,13 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Preview Cards
-
-Here are all cards with themes.
-
-
-### vue
 
 ![](https://raw.githubusercontent.com/applego/applego/master/profile-summary-card-output/vue/0-profile-details.svg)
 
