@@ -9,10 +9,10 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applego&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={名前}&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=applego&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username={名前}&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=applego&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -46,6 +46,7 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/applego/applego/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/applego/applego/master/profile-summary-card-output/vue/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/applego/applego/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ```
